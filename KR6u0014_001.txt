@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:31.394531
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:01
 #+TITLE: 救疾經
 #+PROPERTY: CBETA_ID T85n2878
 #+PROPERTY: ID KR6u0014
