@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:55:31.394531
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:01
 #+TITLE: 救疾經
 #+PROPERTY: CBETA_ID T85n2878
 #+PROPERTY: ID KR6u0014
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2878
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6u0014_T_000-1361b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6u0014_T_001-1361b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2878¶
-
- 佛說救疾經一卷¶
+No. 2878¶
+佛說救疾經一卷¶
 ¶
 
 爾時佛在娑羅雙樹□□□□□□□□□¶
@@ -104,8 +103,7 @@ No.2878¶
 若有人安經像屋裏。無木函盛之在下。共內¶
 人止宿。能使人病。不出三年一切身招惡¶
 病。宜以苦重懺悔。罪從心生。罪從心滅。心如¶
-天堂。心如地獄。仰手是天堂。覆手是地獄。¶
-欲滅身中重罪。至心懺悔莫生懈退。佛告七¶
+天堂。心如地獄。仰手是天堂。覆手是地獄。欲滅身中重罪。至心懺悔莫生懈退。佛告七¶
 佛及金剛密迹諸大菩薩及諸眷屬。此三病¶
 人云何可濟。金剛大士以發本緣。今者可愍。¶
 方便方宜救濟得免此人病苦。世稱如來大¶
